@@ -1,3 +1,4 @@
+//Library
 const Discord = require("discord.js");
 const ytdl = require("ytdl-core");
 const ypi = require('youtube-playlist-info');
